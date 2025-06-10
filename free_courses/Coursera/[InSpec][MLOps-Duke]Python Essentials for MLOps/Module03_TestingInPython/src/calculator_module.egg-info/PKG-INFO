@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: calculator_module
+Version: 0.1.0
+Summary: A simple simulation of a normal calculator with CLI
+Author: ThePandoraic
+Dynamic: author
+Dynamic: summary
